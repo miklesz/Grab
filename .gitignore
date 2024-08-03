@@ -2,3 +2,6 @@
 output_long_video.mp4
 output_short_video.mkv
 problematic_frames/
+output_long_video_with_errors.mp4
+output_short_video_with_errors.mkv
+generate_qr_video_with_errors.py
