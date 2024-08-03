@@ -11,6 +11,7 @@ This project generates videos with QR codes embedded in each frame and verifies 
   - [Generating Videos](#generating-videos)
   - [Verifying Videos](#verifying-videos)
 - [Configuration](#configuration)
+- [Examples](#examples)
 - [Known Issues](#known-issues)
 - [License](#license)
 - [Author](#author)
@@ -98,6 +99,33 @@ Both scripts contain configurable constants that allow you to adjust various par
 
 You can adjust these constants by modifying their values in the respective scripts.
 
+## Examples
+
+### Frame Layout
+
+Each generated frame has a resolution of 1920x1080 pixels and contains the following elements:
+- **Chroma Image**: Placed in the top-left corner with a resolution of 1280x720 pixels.
+- **QR Code**: Placed in the bottom-right corner.
+- **Frame Number Text**: Placed below the chroma image.
+
+### Chroma Image
+
+The file `chroma-444.png` is used as the background for the generated videos. This image has a resolution of 1280x720 and is used to simulate a typical chroma key background in video production. It looks like this:
+
+![Chroma Image](chroma-444-resized.png)
+
+### Sample Frame
+
+Here is an example of a single frame with an embedded QR code:
+
+![Sample Frame](frame_01613_cropped.png)
+
+### Problematic Frame Set
+
+In case of detection issues, the script saves the problematic frame along with the previous and next frames for context. Here is an example of such a set:
+
+![Problematic Frame Set](problematic_set_example.png)
+
 ## Known Issues
 
 - **QR Code Detection**: Sometimes, the QR codes may not be detected in certain frames, even though they are present and clear. This can be due to the compression artifacts in the video or limitations in the QR code detection algorithm.
@@ -114,3 +142,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 Miklesz / Damage
+
+**Inspirations:**
+
+- Argasek / Aberration Creations ^ DCR ^ IPL
