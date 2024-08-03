@@ -1,13 +1,12 @@
 import cv2
-import qrcode
 import numpy as np
+import qrcode
 from PIL import Image
-import os
 
 # Constants
 FPS = 50  # Frames per second
 SHORT_DURATION_SECONDS = 5  # Duration in seconds for the short video
-LONG_DURATION_SECONDS = 10  # Duration in seconds for the long video
+LONG_DURATION_SECONDS = 60 * 8  # Duration in seconds for the long video
 
 SHORT_FRAME_COUNT = (
     SHORT_DURATION_SECONDS * FPS
@@ -44,48 +43,39 @@ video_writer_long = cv2.VideoWriter(
 
 
 # Function to generate QR code
-def generate_qr_code(text, size=600):  # Further increase the size of the QR code
+def generate_qr_code(data, size=600):
     qr = qrcode.QRCode(
         version=1,
-        error_correction=qrcode.constants.ERROR_CORRECT_L,
+        error_correction=qrcode.constants.ERROR_CORRECT_H,
         box_size=10,
         border=4,
     )
-    qr.add_data(text)
+    qr.add_data(data)
     qr.make(fit=True)
-
-    img = qr.make_image(fill="black", back_color="white").convert("L")
+    img = qr.make_image(fill="black", back_color="white")
     img = img.resize((size, size), Image.LANCZOS)
-    return np.array(img)
+    img = np.array(img.convert("RGB"))
+    return img
 
 
 # Function to generate frames and write to video
 def generate_video(frame_count, video_writer, video_type):
     font = cv2.FONT_HERSHEY_SIMPLEX
-    font_scale = 2
+    font_scale = 5  # Increased font size
     font_color = (255, 255, 255)
-    thickness = 3
+    thickness = 10  # Increased thickness
     position = (50, 1050)
 
     for frame_number in range(frame_count):
-        # Create QR code with the frame number
-        qr_code = generate_qr_code(
-            f"{video_type} Frame {frame_number}", size=600
-        )  # Further increase the size of the QR code
-        qr_code_colored = cv2.cvtColor(qr_code, cv2.COLOR_GRAY2BGR)
-
         # Copy the base background image to the frame
         frame = background.copy()
 
-        # Overlay QR code on the frame in the right-bottom corner
-        x_offset = 1920 - qr_code_colored.shape[1] - 10  # 10 pixels from the right edge
-        y_offset = (
-            1080 - qr_code_colored.shape[0] - 10
-        )  # 10 pixels from the bottom edge
-        frame[
-            y_offset : y_offset + qr_code_colored.shape[0],
-            x_offset : x_offset + qr_code_colored.shape[1],
-        ] = qr_code_colored
+        # Generate the QR code with frame number
+        qr_code = generate_qr_code(f"Frame {frame_number}", size=600)
+
+        # Place the QR code in the bottom-right corner of the frame
+        qr_h, qr_w = qr_code.shape[:2]
+        frame[-qr_h - 50 : -50, -qr_w - 50 : -50] = qr_code
 
         # Put frame number text on the frame
         cv2.putText(
@@ -102,7 +92,10 @@ def generate_video(frame_count, video_writer, video_type):
         # Write the frame to the video
         video_writer.write(frame)
 
-        print(f"Generated frame {frame_number} for {video_type} video")
+        if frame_number % 100 == 0 or frame_number == frame_count - 1:
+            print(
+                f"Generated frame {frame_number + 1} of {frame_count} for {video_type} video"
+            )
 
     print(f"{video_type} video generation completed.")
 
