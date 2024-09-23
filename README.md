@@ -96,6 +96,7 @@ Both scripts contain configurable constants that allow you to adjust various par
 
 - `VIDEO_PATH`: Path to the video file to be verified.
 - `DUMP_DIR`: Directory to save problematic frames.
+- `SKIP_FRAMES`: Number of initial and final frames to skip during verification to avoid any potential artifacts introduced at the start and end of the video.
 
 You can adjust these constants by modifying their values in the respective scripts.
 
