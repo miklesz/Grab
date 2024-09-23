@@ -6,7 +6,7 @@ from PIL import Image
 # Constants
 FPS = 50  # Frames per second
 SHORT_DURATION_SECONDS = 5  # Duration in seconds for the short video
-LONG_DURATION_SECONDS = 60 * 8  # Duration in seconds for the long video
+LONG_DURATION_SECONDS = 60 * 10  # Duration in seconds for the long video
 
 SHORT_FRAME_COUNT = (
     SHORT_DURATION_SECONDS * FPS
