@@ -1,0 +1,413 @@
+/Users/miklesz/PycharmProjects/Grab/.venv/bin/python /Users/miklesz/PycharmProjects/Grab/verify_qr_video.py 
+Processed 300 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 400 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 500 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 600 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 700 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 800 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 900 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 1000 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 1100 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 1200 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 1300 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 1400 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 1500 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 1600 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Processed 1700 frames. Frames with no QR code: 0, Missing frames: 0, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 1758 due to no_qr_code
+Saved problematic frames 1760 due to missing_at
+Processed 1800 frames. Frames with no QR code: 1, Missing frames: 1, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 1814 due to no_qr_code
+Saved problematic frames 1816 due to missing_at
+Processed 1900 frames. Frames with no QR code: 2, Missing frames: 2, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 1996 due to no_qr_code
+Saved problematic frames 1998 due to missing_at
+Processed 2000 frames. Frames with no QR code: 3, Missing frames: 3, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 2088 due to no_qr_code
+Saved problematic frames 2090 due to missing_at
+Processed 2100 frames. Frames with no QR code: 4, Missing frames: 4, Repeated frames: 0, Out of order frames: 0
+Processed 2200 frames. Frames with no QR code: 4, Missing frames: 4, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 2243 due to no_qr_code
+Saved problematic frames 2245 due to missing_at
+Processed 2300 frames. Frames with no QR code: 5, Missing frames: 5, Repeated frames: 0, Out of order frames: 0
+Processed 2400 frames. Frames with no QR code: 5, Missing frames: 5, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 2413 due to no_qr_code
+Saved problematic frames 2415 due to missing_at
+Processed 2500 frames. Frames with no QR code: 6, Missing frames: 6, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 2520 due to no_qr_code
+Saved problematic frames 2522 due to missing_at
+Processed 2600 frames. Frames with no QR code: 7, Missing frames: 7, Repeated frames: 0, Out of order frames: 0
+Processed 2700 frames. Frames with no QR code: 7, Missing frames: 7, Repeated frames: 0, Out of order frames: 0
+Processed 2800 frames. Frames with no QR code: 7, Missing frames: 7, Repeated frames: 0, Out of order frames: 0
+Processed 2900 frames. Frames with no QR code: 7, Missing frames: 7, Repeated frames: 0, Out of order frames: 0
+Processed 3000 frames. Frames with no QR code: 7, Missing frames: 7, Repeated frames: 0, Out of order frames: 0
+Processed 3100 frames. Frames with no QR code: 7, Missing frames: 7, Repeated frames: 0, Out of order frames: 0
+Processed 3200 frames. Frames with no QR code: 7, Missing frames: 7, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 3254 due to no_qr_code
+Saved problematic frames 3256 due to missing_at
+Processed 3300 frames. Frames with no QR code: 8, Missing frames: 8, Repeated frames: 0, Out of order frames: 0
+Processed 3400 frames. Frames with no QR code: 8, Missing frames: 8, Repeated frames: 0, Out of order frames: 0
+Processed 3500 frames. Frames with no QR code: 8, Missing frames: 8, Repeated frames: 0, Out of order frames: 0
+Processed 3600 frames. Frames with no QR code: 8, Missing frames: 8, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 3614 due to no_qr_code
+Saved problematic frames 3616 due to missing_at
+Processed 3700 frames. Frames with no QR code: 9, Missing frames: 9, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 3740 due to no_qr_code
+Saved problematic frames 3742 due to missing_at
+Processed 3800 frames. Frames with no QR code: 10, Missing frames: 10, Repeated frames: 0, Out of order frames: 0
+Processed 3900 frames. Frames with no QR code: 10, Missing frames: 10, Repeated frames: 0, Out of order frames: 0
+Processed 4000 frames. Frames with no QR code: 10, Missing frames: 10, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 4056 due to no_qr_code
+Saved problematic frames 4058 due to missing_at
+Processed 4100 frames. Frames with no QR code: 11, Missing frames: 11, Repeated frames: 0, Out of order frames: 0
+Processed 4200 frames. Frames with no QR code: 11, Missing frames: 11, Repeated frames: 0, Out of order frames: 0
+Processed 4300 frames. Frames with no QR code: 11, Missing frames: 11, Repeated frames: 0, Out of order frames: 0
+Processed 4400 frames. Frames with no QR code: 11, Missing frames: 11, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 4405 due to no_qr_code
+Saved problematic frames 4407 due to missing_at
+Processed 4500 frames. Frames with no QR code: 12, Missing frames: 12, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 4517 due to no_qr_code
+Saved problematic frames 4519 due to missing_at
+Processed 4600 frames. Frames with no QR code: 13, Missing frames: 13, Repeated frames: 0, Out of order frames: 0
+Processed 4700 frames. Frames with no QR code: 13, Missing frames: 13, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 4765 due to no_qr_code
+Saved problematic frames 4767 due to missing_at
+Processed 4800 frames. Frames with no QR code: 14, Missing frames: 14, Repeated frames: 0, Out of order frames: 0
+Processed 4900 frames. Frames with no QR code: 14, Missing frames: 14, Repeated frames: 0, Out of order frames: 0
+Processed 5000 frames. Frames with no QR code: 14, Missing frames: 14, Repeated frames: 0, Out of order frames: 0
+Processed 5100 frames. Frames with no QR code: 14, Missing frames: 14, Repeated frames: 0, Out of order frames: 0
+Processed 5200 frames. Frames with no QR code: 14, Missing frames: 14, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 5246 due to no_qr_code
+Saved problematic frames 5248 due to missing_at
+Processed 5300 frames. Frames with no QR code: 15, Missing frames: 15, Repeated frames: 0, Out of order frames: 0
+Processed 5400 frames. Frames with no QR code: 15, Missing frames: 15, Repeated frames: 0, Out of order frames: 0
+Processed 5500 frames. Frames with no QR code: 15, Missing frames: 15, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 5572 due to no_qr_code
+Saved problematic frames 5574 due to missing_at
+Processed 5600 frames. Frames with no QR code: 16, Missing frames: 16, Repeated frames: 0, Out of order frames: 0
+Processed 5700 frames. Frames with no QR code: 16, Missing frames: 16, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 5782 due to no_qr_code
+Saved problematic frames 5784 due to missing_at
+Processed 5800 frames. Frames with no QR code: 17, Missing frames: 17, Repeated frames: 0, Out of order frames: 0
+Processed 5900 frames. Frames with no QR code: 17, Missing frames: 17, Repeated frames: 0, Out of order frames: 0
+Processed 6000 frames. Frames with no QR code: 17, Missing frames: 17, Repeated frames: 0, Out of order frames: 0
+Processed 6100 frames. Frames with no QR code: 17, Missing frames: 17, Repeated frames: 0, Out of order frames: 0
+Processed 6200 frames. Frames with no QR code: 17, Missing frames: 17, Repeated frames: 0, Out of order frames: 0
+Processed 6300 frames. Frames with no QR code: 17, Missing frames: 17, Repeated frames: 0, Out of order frames: 0
+Processed 6400 frames. Frames with no QR code: 17, Missing frames: 17, Repeated frames: 0, Out of order frames: 0
+Processed 6500 frames. Frames with no QR code: 17, Missing frames: 17, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 6501 due to no_qr_code
+Saved problematic frames 6503 due to missing_at
+Saved problematic frames 6569 due to no_qr_code
+Saved problematic frames 6571 due to missing_at
+Processed 6600 frames. Frames with no QR code: 19, Missing frames: 19, Repeated frames: 0, Out of order frames: 0
+Processed 6700 frames. Frames with no QR code: 19, Missing frames: 19, Repeated frames: 0, Out of order frames: 0
+Processed 6800 frames. Frames with no QR code: 19, Missing frames: 19, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 6892 due to no_qr_code
+Saved problematic frames 6894 due to missing_at
+Processed 6900 frames. Frames with no QR code: 20, Missing frames: 20, Repeated frames: 0, Out of order frames: 0
+Processed 7000 frames. Frames with no QR code: 20, Missing frames: 20, Repeated frames: 0, Out of order frames: 0
+Processed 7100 frames. Frames with no QR code: 20, Missing frames: 20, Repeated frames: 0, Out of order frames: 0
+Processed 7200 frames. Frames with no QR code: 20, Missing frames: 20, Repeated frames: 0, Out of order frames: 0
+Processed 7300 frames. Frames with no QR code: 20, Missing frames: 20, Repeated frames: 0, Out of order frames: 0
+Processed 7400 frames. Frames with no QR code: 20, Missing frames: 20, Repeated frames: 0, Out of order frames: 0
+Processed 7500 frames. Frames with no QR code: 20, Missing frames: 20, Repeated frames: 0, Out of order frames: 0
+Processed 7600 frames. Frames with no QR code: 20, Missing frames: 20, Repeated frames: 0, Out of order frames: 0
+Processed 7700 frames. Frames with no QR code: 20, Missing frames: 20, Repeated frames: 0, Out of order frames: 0
+Processed 7800 frames. Frames with no QR code: 20, Missing frames: 20, Repeated frames: 0, Out of order frames: 0
+Processed 7900 frames. Frames with no QR code: 20, Missing frames: 20, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 7990 due to no_qr_code
+Saved problematic frames 7992 due to missing_at
+Processed 8000 frames. Frames with no QR code: 21, Missing frames: 21, Repeated frames: 0, Out of order frames: 0
+Processed 8100 frames. Frames with no QR code: 21, Missing frames: 21, Repeated frames: 0, Out of order frames: 0
+Processed 8200 frames. Frames with no QR code: 21, Missing frames: 21, Repeated frames: 0, Out of order frames: 0
+Processed 8300 frames. Frames with no QR code: 21, Missing frames: 21, Repeated frames: 0, Out of order frames: 0
+Processed 8400 frames. Frames with no QR code: 21, Missing frames: 21, Repeated frames: 0, Out of order frames: 0
+Processed 8500 frames. Frames with no QR code: 21, Missing frames: 21, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 8507 due to no_qr_code
+Saved problematic frames 8509 due to missing_at
+Saved problematic frames 8596 due to no_qr_code
+Saved problematic frames 8598 due to missing_at
+Processed 8600 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 8700 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 8800 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 8900 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 9000 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 9100 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 9200 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 9300 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 9400 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 9500 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 9600 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 9700 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 9800 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 9900 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 10000 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 10100 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 10200 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Processed 10300 frames. Frames with no QR code: 23, Missing frames: 23, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 10344 due to no_qr_code
+Saved problematic frames 10346 due to missing_at
+Processed 10400 frames. Frames with no QR code: 24, Missing frames: 24, Repeated frames: 0, Out of order frames: 0
+Processed 10500 frames. Frames with no QR code: 24, Missing frames: 24, Repeated frames: 0, Out of order frames: 0
+Processed 10600 frames. Frames with no QR code: 24, Missing frames: 24, Repeated frames: 0, Out of order frames: 0
+Processed 10700 frames. Frames with no QR code: 24, Missing frames: 24, Repeated frames: 0, Out of order frames: 0
+Processed 10800 frames. Frames with no QR code: 24, Missing frames: 24, Repeated frames: 0, Out of order frames: 0
+Processed 10900 frames. Frames with no QR code: 24, Missing frames: 24, Repeated frames: 0, Out of order frames: 0
+Processed 11000 frames. Frames with no QR code: 24, Missing frames: 24, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 11007 due to no_qr_code
+Saved problematic frames 11009 due to missing_at
+Processed 11100 frames. Frames with no QR code: 25, Missing frames: 25, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 11146 due to no_qr_code
+Saved problematic frames 11148 due to missing_at
+Processed 11200 frames. Frames with no QR code: 26, Missing frames: 26, Repeated frames: 0, Out of order frames: 0
+Processed 11300 frames. Frames with no QR code: 26, Missing frames: 26, Repeated frames: 0, Out of order frames: 0
+Processed 11400 frames. Frames with no QR code: 26, Missing frames: 26, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 11422 due to no_qr_code
+Saved problematic frames 11424 due to missing_at
+Saved problematic frames 11444 due to no_qr_code
+Saved problematic frames 11446 due to missing_at
+Processed 11500 frames. Frames with no QR code: 28, Missing frames: 28, Repeated frames: 0, Out of order frames: 0
+Processed 11600 frames. Frames with no QR code: 28, Missing frames: 28, Repeated frames: 0, Out of order frames: 0
+Processed 11700 frames. Frames with no QR code: 28, Missing frames: 28, Repeated frames: 0, Out of order frames: 0
+Processed 11800 frames. Frames with no QR code: 28, Missing frames: 28, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 11860 due to no_qr_code
+Saved problematic frames 11862 due to missing_at
+Processed 11900 frames. Frames with no QR code: 29, Missing frames: 29, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 11996 due to no_qr_code
+Saved problematic frames 11998 due to missing_at
+Processed 12000 frames. Frames with no QR code: 30, Missing frames: 30, Repeated frames: 0, Out of order frames: 0
+Processed 12100 frames. Frames with no QR code: 30, Missing frames: 30, Repeated frames: 0, Out of order frames: 0
+Processed 12200 frames. Frames with no QR code: 30, Missing frames: 30, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 12256 due to no_qr_code
+Saved problematic frames 12258 due to missing_at
+Processed 12300 frames. Frames with no QR code: 31, Missing frames: 31, Repeated frames: 0, Out of order frames: 0
+Processed 12400 frames. Frames with no QR code: 31, Missing frames: 31, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 12420 due to no_qr_code
+Saved problematic frames 12422 due to missing_at
+Processed 12500 frames. Frames with no QR code: 32, Missing frames: 32, Repeated frames: 0, Out of order frames: 0
+Processed 12600 frames. Frames with no QR code: 32, Missing frames: 32, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 12632 due to no_qr_code
+Saved problematic frames 12634 due to missing_at
+Processed 12700 frames. Frames with no QR code: 33, Missing frames: 33, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 12746 due to no_qr_code
+Saved problematic frames 12748 due to missing_at
+Processed 12800 frames. Frames with no QR code: 34, Missing frames: 34, Repeated frames: 0, Out of order frames: 0
+Processed 12900 frames. Frames with no QR code: 34, Missing frames: 34, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 12990 due to no_qr_code
+Saved problematic frames 12992 due to missing_at
+Processed 13000 frames. Frames with no QR code: 35, Missing frames: 35, Repeated frames: 0, Out of order frames: 0
+Processed 13100 frames. Frames with no QR code: 35, Missing frames: 35, Repeated frames: 0, Out of order frames: 0
+Processed 13200 frames. Frames with no QR code: 35, Missing frames: 35, Repeated frames: 0, Out of order frames: 0
+Processed 13300 frames. Frames with no QR code: 35, Missing frames: 35, Repeated frames: 0, Out of order frames: 0
+Processed 13400 frames. Frames with no QR code: 35, Missing frames: 35, Repeated frames: 0, Out of order frames: 0
+Processed 13500 frames. Frames with no QR code: 35, Missing frames: 35, Repeated frames: 0, Out of order frames: 0
+Processed 13600 frames. Frames with no QR code: 35, Missing frames: 35, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 13677 due to no_qr_code
+Saved problematic frames 13679 due to missing_at
+Processed 13700 frames. Frames with no QR code: 36, Missing frames: 36, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 13747 due to no_qr_code
+Saved problematic frames 13749 due to missing_at
+Saved problematic frames 13760 due to no_qr_code
+Saved problematic frames 13762 due to missing_at
+Processed 13800 frames. Frames with no QR code: 38, Missing frames: 38, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 13799 due to no_qr_code
+Saved problematic frames 13801 due to missing_at
+Processed 13900 frames. Frames with no QR code: 39, Missing frames: 39, Repeated frames: 0, Out of order frames: 0
+Processed 14000 frames. Frames with no QR code: 39, Missing frames: 39, Repeated frames: 0, Out of order frames: 0
+Processed 14100 frames. Frames with no QR code: 39, Missing frames: 39, Repeated frames: 0, Out of order frames: 0
+Processed 14200 frames. Frames with no QR code: 39, Missing frames: 39, Repeated frames: 0, Out of order frames: 0
+Processed 14300 frames. Frames with no QR code: 39, Missing frames: 39, Repeated frames: 0, Out of order frames: 0
+Processed 14400 frames. Frames with no QR code: 39, Missing frames: 39, Repeated frames: 0, Out of order frames: 0
+Processed 14500 frames. Frames with no QR code: 39, Missing frames: 39, Repeated frames: 0, Out of order frames: 0
+Processed 14600 frames. Frames with no QR code: 39, Missing frames: 39, Repeated frames: 0, Out of order frames: 0
+Processed 14700 frames. Frames with no QR code: 39, Missing frames: 39, Repeated frames: 0, Out of order frames: 0
+Processed 14800 frames. Frames with no QR code: 39, Missing frames: 39, Repeated frames: 0, Out of order frames: 0
+Processed 14900 frames. Frames with no QR code: 39, Missing frames: 39, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 14899 due to no_qr_code
+Saved problematic frames 14901 due to missing_at
+Processed 15000 frames. Frames with no QR code: 40, Missing frames: 40, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 15092 due to no_qr_code
+Saved problematic frames 15094 due to missing_at
+Processed 15100 frames. Frames with no QR code: 41, Missing frames: 41, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 15114 due to no_qr_code
+Saved problematic frames 15116 due to missing_at
+Processed 15200 frames. Frames with no QR code: 42, Missing frames: 42, Repeated frames: 0, Out of order frames: 0
+Processed 15300 frames. Frames with no QR code: 42, Missing frames: 42, Repeated frames: 0, Out of order frames: 0
+Processed 15400 frames. Frames with no QR code: 42, Missing frames: 42, Repeated frames: 0, Out of order frames: 0
+Processed 15500 frames. Frames with no QR code: 42, Missing frames: 42, Repeated frames: 0, Out of order frames: 0
+Processed 15600 frames. Frames with no QR code: 42, Missing frames: 42, Repeated frames: 0, Out of order frames: 0
+Processed 15700 frames. Frames with no QR code: 42, Missing frames: 42, Repeated frames: 0, Out of order frames: 0
+Processed 15800 frames. Frames with no QR code: 42, Missing frames: 42, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 15866 due to no_qr_code
+Saved problematic frames 15868 due to missing_at
+Processed 15900 frames. Frames with no QR code: 43, Missing frames: 43, Repeated frames: 0, Out of order frames: 0
+Processed 16000 frames. Frames with no QR code: 43, Missing frames: 43, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 16034 due to no_qr_code
+Saved problematic frames 16036 due to missing_at
+Processed 16100 frames. Frames with no QR code: 44, Missing frames: 44, Repeated frames: 0, Out of order frames: 0
+Processed 16200 frames. Frames with no QR code: 44, Missing frames: 44, Repeated frames: 0, Out of order frames: 0
+Processed 16300 frames. Frames with no QR code: 44, Missing frames: 44, Repeated frames: 0, Out of order frames: 0
+Processed 16400 frames. Frames with no QR code: 44, Missing frames: 44, Repeated frames: 0, Out of order frames: 0
+Processed 16500 frames. Frames with no QR code: 44, Missing frames: 44, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 16595 due to no_qr_code
+Saved problematic frames 16597 due to missing_at
+Processed 16600 frames. Frames with no QR code: 45, Missing frames: 45, Repeated frames: 0, Out of order frames: 0
+Processed 16700 frames. Frames with no QR code: 45, Missing frames: 45, Repeated frames: 0, Out of order frames: 0
+Processed 16800 frames. Frames with no QR code: 45, Missing frames: 45, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 16897 due to no_qr_code
+Saved problematic frames 16899 due to missing_at
+Processed 16900 frames. Frames with no QR code: 46, Missing frames: 46, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 16922 due to no_qr_code
+Saved problematic frames 16924 due to missing_at
+Processed 17000 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 17100 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 17200 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 17300 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 17400 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 17500 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 17600 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 17700 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 17800 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 17900 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 18000 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 18100 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 18200 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 18300 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 18400 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 18500 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 18600 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 18700 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 18800 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 18900 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Processed 19000 frames. Frames with no QR code: 47, Missing frames: 47, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 19070 due to no_qr_code
+Saved problematic frames 19072 due to missing_at
+Processed 19100 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Processed 19200 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Processed 19300 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Processed 19400 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Processed 19500 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Processed 19600 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Processed 19700 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Processed 19800 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Processed 19900 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Processed 20000 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Processed 20100 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Processed 20200 frames. Frames with no QR code: 48, Missing frames: 48, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 20210 due to no_qr_code
+Saved problematic frames 20212 due to missing_at
+Processed 20300 frames. Frames with no QR code: 49, Missing frames: 49, Repeated frames: 0, Out of order frames: 0
+Processed 20400 frames. Frames with no QR code: 49, Missing frames: 49, Repeated frames: 0, Out of order frames: 0
+Processed 20500 frames. Frames with no QR code: 49, Missing frames: 49, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 20596 due to no_qr_code
+Saved problematic frames 20598 due to missing_at
+Processed 20600 frames. Frames with no QR code: 50, Missing frames: 50, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 20629 due to no_qr_code
+Saved problematic frames 20631 due to missing_at
+Processed 20700 frames. Frames with no QR code: 51, Missing frames: 51, Repeated frames: 0, Out of order frames: 0
+Processed 20800 frames. Frames with no QR code: 51, Missing frames: 51, Repeated frames: 0, Out of order frames: 0
+Processed 20900 frames. Frames with no QR code: 51, Missing frames: 51, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 20960 due to no_qr_code
+Saved problematic frames 20962 due to missing_at
+Processed 21000 frames. Frames with no QR code: 52, Missing frames: 52, Repeated frames: 0, Out of order frames: 0
+Processed 21100 frames. Frames with no QR code: 52, Missing frames: 52, Repeated frames: 0, Out of order frames: 0
+Processed 21200 frames. Frames with no QR code: 52, Missing frames: 52, Repeated frames: 0, Out of order frames: 0
+Processed 21300 frames. Frames with no QR code: 52, Missing frames: 52, Repeated frames: 0, Out of order frames: 0
+Processed 21400 frames. Frames with no QR code: 52, Missing frames: 52, Repeated frames: 0, Out of order frames: 0
+Processed 21500 frames. Frames with no QR code: 52, Missing frames: 52, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 21554 due to no_qr_code
+Saved problematic frames 21556 due to missing_at
+Saved problematic frames 21559 due to no_qr_code
+Saved problematic frames 21561 due to missing_at
+Processed 21600 frames. Frames with no QR code: 54, Missing frames: 54, Repeated frames: 0, Out of order frames: 0
+Processed 21700 frames. Frames with no QR code: 54, Missing frames: 54, Repeated frames: 0, Out of order frames: 0
+Processed 21800 frames. Frames with no QR code: 54, Missing frames: 54, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 21836 due to no_qr_code
+Saved problematic frames 21838 due to missing_at
+Saved problematic frames 21874 due to no_qr_code
+Saved problematic frames 21876 due to missing_at
+Saved problematic frames 21877 due to no_qr_code
+Saved problematic frames 21879 due to missing_at
+Processed 21900 frames. Frames with no QR code: 57, Missing frames: 57, Repeated frames: 0, Out of order frames: 0
+Processed 22000 frames. Frames with no QR code: 57, Missing frames: 57, Repeated frames: 0, Out of order frames: 0
+Processed 22100 frames. Frames with no QR code: 57, Missing frames: 57, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 22195 due to no_qr_code
+Saved problematic frames 22197 due to missing_at
+Processed 22200 frames. Frames with no QR code: 58, Missing frames: 58, Repeated frames: 0, Out of order frames: 0
+Processed 22300 frames. Frames with no QR code: 58, Missing frames: 58, Repeated frames: 0, Out of order frames: 0
+Processed 22400 frames. Frames with no QR code: 58, Missing frames: 58, Repeated frames: 0, Out of order frames: 0
+Processed 22500 frames. Frames with no QR code: 58, Missing frames: 58, Repeated frames: 0, Out of order frames: 0
+Processed 22600 frames. Frames with no QR code: 58, Missing frames: 58, Repeated frames: 0, Out of order frames: 0
+Processed 22700 frames. Frames with no QR code: 58, Missing frames: 58, Repeated frames: 0, Out of order frames: 0
+Processed 22800 frames. Frames with no QR code: 58, Missing frames: 58, Repeated frames: 0, Out of order frames: 0
+Processed 22900 frames. Frames with no QR code: 58, Missing frames: 58, Repeated frames: 0, Out of order frames: 0
+Processed 23000 frames. Frames with no QR code: 58, Missing frames: 58, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 23020 due to no_qr_code
+Saved problematic frames 23022 due to missing_at
+Processed 23100 frames. Frames with no QR code: 59, Missing frames: 59, Repeated frames: 0, Out of order frames: 0
+Processed 23200 frames. Frames with no QR code: 59, Missing frames: 59, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 23227 due to no_qr_code
+Saved problematic frames 23229 due to missing_at
+Processed 23300 frames. Frames with no QR code: 60, Missing frames: 60, Repeated frames: 0, Out of order frames: 0
+Processed 23400 frames. Frames with no QR code: 60, Missing frames: 60, Repeated frames: 0, Out of order frames: 0
+Processed 23500 frames. Frames with no QR code: 60, Missing frames: 60, Repeated frames: 0, Out of order frames: 0
+Processed 23600 frames. Frames with no QR code: 60, Missing frames: 60, Repeated frames: 0, Out of order frames: 0
+Processed 23700 frames. Frames with no QR code: 60, Missing frames: 60, Repeated frames: 0, Out of order frames: 0
+Processed 23800 frames. Frames with no QR code: 60, Missing frames: 60, Repeated frames: 0, Out of order frames: 0
+Processed 23900 frames. Frames with no QR code: 60, Missing frames: 60, Repeated frames: 0, Out of order frames: 0
+Processed 24000 frames. Frames with no QR code: 60, Missing frames: 60, Repeated frames: 0, Out of order frames: 0
+Processed 24100 frames. Frames with no QR code: 60, Missing frames: 60, Repeated frames: 0, Out of order frames: 0
+Processed 24200 frames. Frames with no QR code: 60, Missing frames: 60, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 24255 due to no_qr_code
+Saved problematic frames 24257 due to missing_at
+Processed 24300 frames. Frames with no QR code: 61, Missing frames: 61, Repeated frames: 0, Out of order frames: 0
+Processed 24400 frames. Frames with no QR code: 61, Missing frames: 61, Repeated frames: 0, Out of order frames: 0
+Processed 24500 frames. Frames with no QR code: 61, Missing frames: 61, Repeated frames: 0, Out of order frames: 0
+Processed 24600 frames. Frames with no QR code: 61, Missing frames: 61, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 24626 due to no_qr_code
+Saved problematic frames 24628 due to missing_at
+Processed 24700 frames. Frames with no QR code: 62, Missing frames: 62, Repeated frames: 0, Out of order frames: 0
+Processed 24800 frames. Frames with no QR code: 62, Missing frames: 62, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 24839 due to no_qr_code
+Saved problematic frames 24841 due to missing_at
+Processed 24900 frames. Frames with no QR code: 63, Missing frames: 63, Repeated frames: 0, Out of order frames: 0
+Processed 25000 frames. Frames with no QR code: 63, Missing frames: 63, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 25045 due to no_qr_code
+Saved problematic frames 25047 due to missing_at
+Processed 25100 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 25200 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 25300 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 25400 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 25500 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 25600 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 25700 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 25800 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 25900 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 26000 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 26100 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 26200 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 26300 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 26400 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 26500 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Processed 26600 frames. Frames with no QR code: 64, Missing frames: 64, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 26680 due to no_qr_code
+Saved problematic frames 26682 due to missing_at
+Processed 26700 frames. Frames with no QR code: 65, Missing frames: 65, Repeated frames: 0, Out of order frames: 0
+Saved problematic frames 26778 due to no_qr_code
+Saved problematic frames 26780 due to missing_at
+Saved problematic frames 26786 due to no_qr_code
+Saved problematic frames 26788 due to missing_at
+Processed 27046 frames. Frames with no QR code: 67, Missing frames: 67, Repeated frames: 0, Out of order frames: 0
+
+Verification Report
+===================
+Total frames analyzed: 27046
+Frames with no QR code: 67
+Frames with no QR code: [1758, 1814, 1996, 2088, 2243, 2413, 2520, 3254, 3614, 3740, 4056, 4405, 4517, 4765, 5246, 5572, 5782, 6501, 6569, 6892, 7990, 8507, 8596, 10344, 11007, 11146, 11422, 11444, 11860, 11996, 12256, 12420, 12632, 12746, 12990, 13677, 13747, 13760, 13799, 14899, 15092, 15114, 15866, 16034, 16595, 16897, 16922, 19070, 20210, 20596, 20629, 20960, 21554, 21559, 21836, 21874, 21877, 22195, 23020, 23227, 24255, 24626, 24839, 25045, 26680, 26778, 26786]
+Missing frames: 67
+Missing frame numbers: [1613, 1669, 1851, 1943, 2098, 2268, 2375, 3109, 3469, 3595, 3911, 4260, 4372, 4620, 5101, 5427, 5637, 6356, 6424, 6747, 7845, 8362, 8451, 10199, 10862, 11001, 11277, 11299, 11715, 11851, 12111, 12275, 12487, 12601, 12845, 13532, 13602, 13615, 13654, 14754, 14947, 14969, 15721, 15889, 16450, 16752, 16777, 18925, 20065, 20451, 20484, 20815, 21409, 21414, 21691, 21729, 21732, 22050, 22875, 23082, 24110, 24481, 24694, 24900, 26535, 26633, 26641]
+Repeated frames: 0
+Out of order frames: 0
+
+Process finished with exit code 0
